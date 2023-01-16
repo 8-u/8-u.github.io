@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KHUD&#39;s Blog</title>
+  
+  <subtitle>Welcome!</subtitle>
+  <link href="http://8-u.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://8-u.github.io/"/>
+  <updated>2023-01-16T10:55:57.939Z</updated>
+  <id>http://8-u.github.io/</id>
+  
+  <author>
+    <name>KHUD</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语法学习以及利用typora绘图</title>
+    <link href="http://8-u.github.io/posts/7207d55e.html"/>
+    <id>http://8-u.github.io/posts/7207d55e.html</id>
+    <published>2023-01-16T10:40:46.000Z</published>
+    <updated>2023-01-16T10:55:57.939Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Typora绘图"><a href="#Typora绘图" class="headerlink" title="Typora绘图"></a>Typora绘图</h1><h2 id="饼状图（Click-the-Photo）"><a href="#饼状图（Click-the-Photo）" class="headerlink" title="饼状图（Click the Photo）"></a>饼状图（Click the Photo）</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">pie</span><br><span class="line">title 暗网占比</span><br><span class="line">&quot;色情&quot;:452</span><br><span class="line">&quot;毒品&quot;:1265</span><br><span class="line">&quot;比特币&quot;:569</span><br></pre></td></tr></table></figure><h2 id="时序图（Click-the-Photo）"><a href="#时序图（Click-the-Photo）" class="headerlink" title="时序图（Click the Photo）"></a>时序图（Click the Photo）</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">Markdown语法学习以及利用typora绘图</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
