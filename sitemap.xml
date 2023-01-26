@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://8-u.github.io/posts/9896fd0f.html</loc>
+    
+    <lastmod>2023-01-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://8-u.github.io/posts/6601b08a.html</loc>
     
     <lastmod>2023-01-20</lastmod>
@@ -67,7 +76,7 @@
 
   <url>
     <loc>http://8-u.github.io/</loc>
-    <lastmod>2023-01-20</lastmod>
+    <lastmod>2023-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
